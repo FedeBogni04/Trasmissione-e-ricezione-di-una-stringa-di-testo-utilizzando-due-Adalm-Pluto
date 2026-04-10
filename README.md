@@ -1,1 +1,2 @@
 # Trasmissione-e-ricezione-di-una-stringa-di-testo-utilizzando-due-Adalm-Pluto
+Ho scritto codice Matlab per utilizzare due radio Adalm-Pluto per trasmettere e ricevere una stringa di testo presa in input da terminale, modulando e codificando il segnale in trasmissione e demodulandolo e decodificandolo in ricezione. Ho implementato una parte di codice in modo tale che la radio in ricezione modifichi il proprio gain in base alla potenza del segnale ricevuto e testato il codice in diversi ambienti per studiarne il comportamento.
