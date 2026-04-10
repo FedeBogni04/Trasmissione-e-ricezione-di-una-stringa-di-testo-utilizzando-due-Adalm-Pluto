@@ -1,0 +1,1 @@
+# Trasmissione-e-ricezione-di-una-stringa-di-testo-utilizzando-due-Adalm-Pluto
